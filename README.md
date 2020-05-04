@@ -28,3 +28,6 @@ Recommended Virtual Machine Alternative Specs:
     $ catkin_init_workspace
 ```
 
+## Related Links
+http://wiki.ros.org/rtabmap_ros/Tutorials/SetupOnYourRobot
+http://wiki.ros.org/rtabmap_ros
