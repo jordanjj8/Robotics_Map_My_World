@@ -1,13 +1,8 @@
-# Robotics_Where_Am_I
-Project #3 Where Am I for [Robotics Software Engineer Nanodegree Program](https://www.udacity.com/course/robotics-software-engineer--nd209)
+# Robotics_Map_My_World
+Project #4 Map My World for [Robotics Software Engineer Nanodegree Program](https://www.udacity.com/course/robotics-software-engineer--nd209)
 
 ## Overview 
-Refer to this YouTube link for how it performed: https://www.youtube.com/watch?v=Nc97I8n34iI
-### Start 
-![Start State](https://github.com/jordanjj8/Robotics_Where_Am_I/blob/master/Start.png)
 
-### End 
-![End](https://github.com/jordanjj8/Robotics_Where_Am_I/blob/master/End.JPG)
 
 ## Requirements 
 * [Gazebo](http://gazebosim.org/) any version later than v7.0.0 
