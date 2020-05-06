@@ -3,6 +3,7 @@ Project #4 Map My World for [Robotics Software Engineer Nanodegree Program](http
 
 ## Overview 
 
+## Description
 
 ## Requirements 
 * [Gazebo](http://gazebosim.org/) any version later than v7.0.0 
