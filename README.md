@@ -1,7 +1,9 @@
 # Robotics_Map_My_World
 Project #4 Map My World for [Robotics Software Engineer Nanodegree Program](https://www.udacity.com/course/robotics-software-engineer--nd209)
+![Mapping Using RTAB-Map](https://github.com/jordanjj8/Robotics_Map_My_World/blob/master/End.JPG)
 
 ## Overview 
+Refer to this YouTube Link for how I mapped the environment: https://www.youtube.com/watch?v=a4VjEx4514A
 
 ## Description
 
