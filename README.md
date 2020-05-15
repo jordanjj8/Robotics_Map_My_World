@@ -7,6 +7,7 @@ Project #4 Map My World for [Robotics Software Engineer Nanodegree Program](http
 Refer to this YouTube Link for how I mapped the environment: https://www.youtube.com/watch?v=amcQPbuU8bI
 
 ## Description
+In this project, my robot will navigate through the world to create a 2D occupancy grid and 3D octomap from a simulated environment with the RTAB-Map package.
 
 ## Requirements 
 * [Gazebo](http://gazebosim.org/) any version later than v7.0.0 
